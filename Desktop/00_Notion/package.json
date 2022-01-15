@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "\"Notion material design\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "run test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/botechiaEri/NotionDesignBotechiaEri.git"
+  },
+  "author": "{name: \"Erika Luisa Mendonca Botechia\",github: \"@botechiaEri\" , e-mail: \"erikabotechia@gmail.com\" + \" \" + \"mendoncabotechiaerikaluisa@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/botechiaEri/NotionDesignBotechiaEri/issues"
+  },
+  "homepage": "https://github.com/botechiaEri/NotionDesignBotechiaEri#readme",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
+}
